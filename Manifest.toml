@@ -220,10 +220,6 @@ repo-url = "https://github.com/JuliaDatabases/MySQL.jl.git"
 uuid = "39abe10b-433b-5dbd-92d4-e302a9df00cd"
 version = "0.6.0+"
 
-[[NamedTuples]]
-git-tree-sha1 = "6374851ad4b15f2a20ac20637d38c550531fa684"
-uuid = "73a701b4-84e1-5df0-88ff-1968ee2ee8dc"
-version = "4.0.2"
 
 [[Nullables]]
 deps = ["Compat", "Pkg"]
